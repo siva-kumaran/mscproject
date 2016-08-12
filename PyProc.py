@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #   sis00024@students.stir.ac.uk
-#   Sivakumaran Somasundaram, Student Number - 2426734
-#   ITNPBD2 Assignment 2015
+#   Sivakumaran S
 ################################################################################
 #   Load Modules
 import platform     #print platform.system(), platform.release()
